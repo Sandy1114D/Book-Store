@@ -1,89 +1,90 @@
-# 📚 Book Store Application (MERN Stack)
+<!-- Add a Header with Background Image -->
+<div align="center">
+  <img src="https://via.placeholder.com/1000x400.png?text=Book+Store+Project" alt="Book Store Banner" width="70%">
+</div>
 
-![Book Store Banner](https://via.placeholder.com/1000x400.png?text=Book+Store+Project)
+<!-- Centered Heading with Custom Font -->
+<h1 align="center" style="font-family: 'Arial Black', Gadget, sans-serif; font-size: 42px;">📚 Book Store Application (MERN Stack)</h1>
 
-## 🌟 Key Features
+<!-- Centered Features Section with Custom Styling -->
+<h2 style="color: #3498db; font-size: 28px; border-bottom: 2px solid #3498db; padding-bottom: 10px;">🌟 Key Features</h2>
+<ul>
+  <li>📚 <strong>Book Management:</strong> Add, edit, and delete books with ease.</li>
+  <li>🔐 <strong>User Authentication:</strong> Secure signup, login, and logout functionalities.</li>
+  <li>🔍 <strong>Browse and Search:</strong> Discover books by categories, authors, or titles.</li>
+  <li>🎁 <strong>Free Book Access:</strong> Access a curated selection of free books.</li>
+  <li>📖 <strong>Courses:</strong> Enroll in and explore engaging book-related courses.</li>
+  <li>📱 <strong>Responsive UI:</strong> Optimized for mobile and desktop devices.</li>
+</ul>
 
-- 📚 **Book Management:** Add, edit, and delete books with ease.
-- 🔐 **User Authentication:** Secure signup, login, and logout functionalities.
-- 🔍 **Browse and Search:** Discover books by categories, authors, or titles.
-- 🎁 **Free Book Access:** Access a curated selection of free books.
-- 📖 **Courses:** Enroll in and explore engaging book-related courses.
-- 📱 **Responsive UI:** Optimized for mobile and desktop devices.
+<!-- Data Source Section with Custom Styling -->
+<h2 style="color: #2980B9; font-size: 24px;">📂 Data Source</h2>
+<p>Data is aggregated from various book management APIs to provide a comprehensive and up-to-date library.</p>
 
-## 📂 Data Source
+<!-- Technology Stack with Custom Styling -->
+<h2 style="color: #2ECC71; font-size: 24px;">💻 Technology Stack</h2>
+<ul>
+  <li><strong>Frontend:</strong> React.js, Vite.js, Tailwind CSS</li>
+  <li><strong>Backend:</strong> Node.js, Express.js</li>
+  <li><strong>Database:</strong> MongoDB</li>
+  <li><strong>Build Tool:</strong> Vite.js for fast development and hot module replacement.</li>
+</ul>
 
-Data is aggregated from various book management APIs to provide a comprehensive and up-to-date library.
+<!-- How to Use Section with Custom Styling -->
+<h2 style="color: #E67E22; font-size: 24px;">📝 How to Use</h2>
+<ol>
+  <li>Clone the repository and navigate to the backend directory:
+    <pre><code>git clone https://github.com/Sandy1114D/Book-Store.git
+cd Book-Store/backend</code></pre>
+  </li>
+  <li>Install backend dependencies:
+    <pre><code>npm install</code></pre>
+  </li>
+  <li>Set up environment variables in a `.env` file:
+    <pre><code>MONGO_URI=&lt;Your MongoDB Connection String&gt;
+JWT_SECRET=&lt;Your Secret Key&gt;</code></pre>
+  </li>
+  <li>Start the backend server:
+    <pre><code>npm start</code></pre>
+  </li>
+  <li>Navigate to the frontend directory:
+    <pre><code>cd ../frontend</code></pre>
+  </li>
+  <li>Install frontend dependencies:
+    <pre><code>npm install</code></pre>
+  </li>
+  <li>Start the frontend development server:
+    <pre><code>npm run dev</code></pre>
+  </li>
+  <li>Access the application at <a href="http://localhost:3000">http://localhost:3000</a></li>
+</ol>
 
-## 💻 Technology Stack
+<!-- Screenshots Section with Custom Styling -->
+<h2 style="color: #FF5733; font-size: 24px;">📸 Screenshots</h2>
+<div align="center">
+  <img src="https://via.placeholder.com/600x400.png?text=Homepage" alt="Homepage" width="30%">
+  <img src="https://via.placeholder.com/600x400.png?text=Books+Listing" alt="Books Listing" width="30%">
+  <img src="https://via.placeholder.com/600x400.png?text=Book+Details" alt="Book Details" width="30%">
+</div>
 
-- **Frontend:** React.js, Vite.js, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Build Tool:** Vite.js for fast development and hot module replacement.
+<!-- Contribution Guidelines with Custom Styling -->
+<h2 style="color: #27AE60; font-size: 24px;">🤝 Contribution Guidelines</h2>
+<p>We welcome your contributions to enhance the Book Store Application. Please open issues or submit pull requests via <a href="https://github.com/Sandy1114D/Book-Store/issues" style="color: #3498db; text-decoration: none;">GitHub Issues</a>.</p>
 
-## 📝 How to Use
+<!-- YouTube Video Section with Custom Styling -->
+<h2 style="color: #E74C3C; font-size: 24px;">🎬 YouTube Video</h2>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=m87u3V9U-Z8">
+    <img src="https://via.placeholder.com/600x400.png?text=Book+Store+Video" alt="Book Store Video" width="50%">
+  </a>
+</div>
 
-1. Clone the repository and navigate to the backend directory:
-    ```bash
-    git clone https://github.com/Sandy1114D/Book-Store.git
-    cd Book-Store/backend
-    ```
+<!-- Acknowledgments Section with Custom Styling -->
+<h2 style="color: #E67E22; font-size: 24px;">🙏 Acknowledgments</h2>
+<p>Special thanks to all contributors and supporters of the Book Store Application.</p>
 
-2. Install backend dependencies:
-    ```bash
-    npm install
-    ```
-
-3. Set up environment variables in a `.env` file:
-    ```bash
-    MONGO_URI=<Your MongoDB Connection String>
-    JWT_SECRET=<Your Secret Key>
-    ```
-
-4. Start the backend server:
-    ```bash
-    npm start
-    ```
-
-5. Navigate to the frontend directory:
-    ```bash
-    cd ../frontend
-    ```
-
-6. Install frontend dependencies:
-    ```bash
-    npm install
-    ```
-
-7. Start the frontend development server:
-    ```bash
-    npm run dev
-    ```
-
-8. Access the application at [http://localhost:3000](http://localhost:3000)
-
-## 📸 Screenshots
-
-![Homepage](https://via.placeholder.com/600x400.png?text=Homepage)
-![Books Listing](https://via.placeholder.com/600x400.png?text=Books+Listing)
-![Book Details](https://via.placeholder.com/600x400.png?text=Book+Details)
-
-## 🤝 Contribution Guidelines
-
-We welcome your contributions to enhance the Book Store Application. Please open issues or submit pull requests via [GitHub Issues](https://github.com/Sandy1114D/Book-Store/issues).
-
-## 🎬 YouTube Video
-
-[![Book Store Video](https://via.placeholder.com/600x400.png?text=Book+Store+Video)](https://www.youtube.com/watch?v=m87u3V9U-Z8)
-
-## 🙏 Acknowledgments
-
-Special thanks to all contributors and supporters of the Book Store Application.
-
-## 📖 Documentation
-
-[View Documentation](https://github.com/Sandy1114D/Book-Store/blob/main/Documentation.pdf)
-
-For any questions or assistance, reach out to us at [sanket3.r@gmail.com](mailto:sanket3.r@gmail.com)
-
+<!-- Footer with Custom Styling -->
+<div align="center" style="background-color: #2c3e50; padding: 20px;">
+  <h2 style="color: #E67E22; font-size: 24px;">📧 Contact</h2>
+  <p>If you have any questions or need further assistance, feel free to reach out to us at <a href="mailto:sanket3.r@gmail.com" style="color: #E67E22;">sanket3.r@gmail.com</a>.</p>
+</div>
