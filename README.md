@@ -62,22 +62,20 @@ JWT_SECRET=&lt;Your Secret Key&gt;</code></pre>
 <!-- Screenshots Section with Custom Styling -->
 <h2 style="color: #FF5733; font-size: 24px;">📸 Screenshots</h2>
 <div align="center">
-  <img src="https://github.com/Sandy1114D/Book-Store/blob/master/Pictures/Screenshot%202024-08-18%20170425.png" alt="Homepage" width="30%">
-  <img src="https://github.com/Sandy1114D/Book-Store/blob/master/Pictures/Screenshot%202024-08-18%20170408.png" alt="Books Listing" width="30%">
-  <img src="https://github.com/Sandy1114D/Book-Store/blob/master/Pictures/Screenshot%202024-08-18%20170350.png" alt="Book Details" width="30%">
+  <img src="https://github.com/Sandy1114D/Book-Store/blob/master/Pictures/Screenshot%202024-08-18%20170425.png" alt="Homepage" width="70%">
+</div>
+<div align="center">
+  <img src="https://github.com/Sandy1114D/Book-Store/blob/master/Pictures/Screenshot%202024-08-18%20170408.png" alt="Books Listing" width="70%">
+</div>
+<div align="center">
+  <img src="https://github.com/Sandy1114D/Book-Store/blob/master/Pictures/Screenshot%202024-08-18%20170350.png" alt="Book Details" width="70%">
 </div>
 
 <!-- Contribution Guidelines with Custom Styling -->
 <h2 style="color: #27AE60; font-size: 24px;">🤝 Contribution Guidelines</h2>
 <p>We welcome your contributions to enhance the Book Store Application. Please open issues or submit pull requests via <a href="https://github.com/Sandy1114D/Book-Store/issues" style="color: #3498db; text-decoration: none;">GitHub Issues</a>.</p>
 
-<!-- YouTube Video Section with Custom Styling -->
-<h2 style="color: #E74C3C; font-size: 24px;">🎬 YouTube Video</h2>
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=m87u3V9U-Z8">
-    <img src="https://via.placeholder.com/600x400.png?text=Book+Store+Video" alt="Book Store Video" width="50%">
-  </a>
-</div>
+
 
 <!-- Acknowledgments Section with Custom Styling -->
 <h2 style="color: #E67E22; font-size: 24px;">🙏 Acknowledgments</h2>
