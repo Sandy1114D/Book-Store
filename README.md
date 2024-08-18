@@ -1,6 +1,6 @@
 <!-- Add a Header with Background Image -->
 <div align="center">
-  <img src="https://via.placeholder.com/1000x400.png?text=Book+Store+Project" alt="Book Store Banner" width="70%">
+  <img src="https://github.com/Sandy1114D/Book-Store/blob/master/Pictures/Screenshot%202024-08-18%20170323.png" width="70%">
 </div>
 
 <!-- Centered Heading with Custom Font -->
