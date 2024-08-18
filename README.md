@@ -84,5 +84,5 @@ JWT_SECRET=&lt;Your Secret Key&gt;</code></pre>
 <!-- Footer with Custom Styling -->
 <div align="center" style="background-color: #2c3e50; padding: 20px;">
   <h2 style="color: #E67E22; font-size: 24px;">📧 Contact</h2>
-  <p>If you have any questions or need further assistance, feel free to reach out to us at <a href="mailto:sanket3.r@gmail.com" style="color: #E67E22;">sanket3.r@gmail.com</a>.</p>
+  <p>If you have any questions or need further assistance, feel free to reach out to us at <a href="mailto:drsanketpatil18@gmail.com" style="color: #E67E22;">drsanketpatil18@gmail.com</a>.</p>
 </div>
